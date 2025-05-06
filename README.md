@@ -36,3 +36,4 @@ To analyze key operational metrics and user behavior data to identify performanc
 - Interpreted findings to deliver actionable insights for business decisions
 
 # KPIs Solution / Report
+<a href="https://github.com/Pushkar2520/Operation-Metric-Analysis/blob/main/Operation%20%26%20metric%20analysis.pptx">Solution / Report<a/>
