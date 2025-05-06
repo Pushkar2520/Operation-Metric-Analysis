@@ -34,3 +34,5 @@ To analyze key operational metrics and user behavior data to identify performanc
 - Calculated key performance indicators (KPIs) like throughput, retention, and CTR
 - Analyzed trends, anomalies, and performance shifts across metrics
 - Interpreted findings to deliver actionable insights for business decisions
+
+# KPIs Solution / Report
