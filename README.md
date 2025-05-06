@@ -11,3 +11,4 @@ To analyze key operational metrics and user behavior data to identify performanc
 
 <a href="https://github.com/Pushkar2520/Operation-Metric-Analysis/blob/main/users.csv">Users<a/>
 
+<a href ="https://github.com/Pushkar2520/Operation-Metric-Analysis/blob/main/Question(KPIs).pptx">Questtions(KPIs)<a/>
