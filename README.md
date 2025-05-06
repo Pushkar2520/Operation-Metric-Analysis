@@ -37,3 +37,15 @@ To analyze key operational metrics and user behavior data to identify performanc
 
 # KPIs Solution / Report
 <a href="https://github.com/Pushkar2520/Operation-Metric-Analysis/blob/main/Operation%20%26%20metric%20analysis.pptx">Solution / Report<a/>
+
+# Project Insights
+- Job review volume increased steadily, with a few spikes indicating potential backlog or demand surges
+- Reviewer throughput varied, highlighting differences in efficiency
+- Certain languages dominated the job volume, suggesting regional or content focus
+- User retention dropped slightly week-over-week, indicating a need for re-engagement strategies
+- Mobile engagement was consistently higher, showing a user preference for mobile platforms
+- Email click-through rates were low, suggesting poor engagement with email campaigns
+
+# Final Conclusion
+The analysis revealed operational strengths and gaps in user retention and communication. Improving reviewer efficiency, enhancing mobile experience, and optimizing email strategies can significantly boost overall performance.
+
