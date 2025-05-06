@@ -27,3 +27,10 @@ To analyze key operational metrics and user behavior data to identify performanc
 - calculate the weekly engagement per device
 - how users are engaging with the email service( calculate the email engagement metrics)
 
+# Process
+- Extracted operational and user data using advanced SQL queries
+- Cleaned and validated data for consistency across time and metrics
+- Segmented data by week, device, language, and user type
+- Calculated key performance indicators (KPIs) like throughput, retention, and CTR
+- Analyzed trends, anomalies, and performance shifts across metrics
+- Interpreted findings to deliver actionable insights for business decisions
